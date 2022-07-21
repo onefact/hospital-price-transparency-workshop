@@ -10,10 +10,12 @@ Workshop on using natural language processing and deep learning applied to hospi
 
 Email your desired analyses to jaan@onefact.org.
 
-## Homework for Day 2 of the workshop:
+## Day 2 of the workshop:
 
 * notebook: https://colab.research.google.com/drive/1ko6z7Ypl2FXT3LK15AYArcZTYAL_QTPv?usp=sharing
 
 > Homework! * If you have taken or learned statistics: think about what methods you might use to predict hospital prices from count-valued random variables (like what we created in the vector representations of text)
 
 > From a health equity point of view: what words, procedures, service classes (inpatient/outpatient/medication) would you expect to be correlated to a higher price? (Can we recover patterns we would expect from a health equity point of view from the machine learning model we will train tomorrow: for example, if outpatient procedures are unlikely to be covered by Medicare/Medicaid, are those more expensive?)
+
+## Day 3 of the workshop:
