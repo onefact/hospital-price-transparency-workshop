@@ -22,3 +22,9 @@ Email your desired analyses to jaan@onefact.org.
 > From a health equity point of view: what words, procedures, service classes (inpatient/outpatient/medication) would you expect to be correlated to a higher price? (Can we recover patterns we would expect from a health equity point of view from the machine learning model we will train tomorrow: for example, if outpatient procedures are unlikely to be covered by Medicare/Medicaid, are those more expensive?)
 
 ## Day 3 of the workshop:
+
+* notebook: https://colab.research.google.com/drive/1nn59QGzuS6EVcQ6RgNWnfC7ETJFHLD7l?usp=sharing
+
+> Homework! Fill in the pseudocode at the bottom of the notebook for implementing the two-layer neural network from scratch. Use the evaluation code we wrote (seeing how well the predicted price of a procedure matches the actual price) to predict hospital prices from their text descriptions. For bonus points, include the HCPCS description text we mapped the data to, which should improve the predictions (more data never hurts performance), or link the data to other datasets such as census info. 
+
+Please email Jaan with any feedback from this workshop! jaan@onefact.org.
