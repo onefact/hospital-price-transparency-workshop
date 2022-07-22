@@ -3,6 +3,7 @@ Workshop on using natural language processing and deep learning applied to hospi
 
 ## Day 1 of the workshop:
 
+* recording: https://drive.google.com/drive/folders/1LNfvWzW3JMltGu1owV1830ko6SoDS1vi
 * notebook: https://colab.research.google.com/drive/1L4QkgrOowrrQtC7jgVTv1p6DtFgpjXvx?usp=sharing
 * whiteboard: https://app.excalidraw.com/l/1mBnVe9NaES/74OqBRSPJV9
 * Dataframe we saved: https://github.com/onefact/hospital-price-transparency-workshop/blob/main/ohiohealth.com-out-of-pocket-estimates-31-4446959_obleness_standardcharges-xlsx-mapped-to-CMS-RVU-CPT-descriptions.csv
